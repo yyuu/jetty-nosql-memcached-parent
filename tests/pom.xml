@@ -8,7 +8,6 @@
 	</parent>
 	<groupId>com.geishatokyo.jetty.tests</groupId>
 	<artifactId>jetty-nosql-memcached-tests</artifactId>
-	<version>0.1.1-SNAPSHOT</version>
 	<name>jetty-nosql-memcached-tests</name>
 	<packaging>pom</packaging>
 	<modules>
