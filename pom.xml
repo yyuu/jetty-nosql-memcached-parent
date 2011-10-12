@@ -4,7 +4,7 @@
 	<groupId>com.geishatokyo.jetty</groupId>
 	<artifactId>jetty-nosql-memcached-parent</artifactId>
 	<version>0.1.1-SNAPSHOT</version>
-	<name>jetty-nosql-memcached</name>
+	<name>jetty-nosql-memcached-parent</name>
 	<packaging>pom</packaging>
 	<properties>
 		<jetty.version>8.0.2.v20111006</jetty.version>
@@ -15,4 +15,27 @@
 		<module>jetty-nosql-memcached-xstream</module>
 		<module>tests</module>
 	</modules>
+	<licenses>
+		<license>
+			<name>The Apache Software License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+	<scm>
+		<connection>scm:git:git://github.com/yyuu/jetty-nosql-memcached-parent.git</connection>
+		<developerConnection>scm:git:git@github.com/yyuu/jetty-nosql-memcached-parent.git</developerConnection>
+		<url>scm:git:git://github.com/yyuu/jetty-nosql-memcached-parent.git</url>
+	</scm>
+	<issueManagement>
+		<system>github</system>
+		<url>https://github.com/yyuu/jetty-nosql-memcached-parent/issues</url>
+	</issueManagement>
+	<developers>
+		<developer>
+			<id>yyuu</id>
+			<name>Yamashita, Yuu</name>
+			<email>yamashita@geishatokyo.com</email>
+		</developer>
+	</developers>
 </project>
