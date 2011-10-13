@@ -7,5 +7,12 @@
 /.*.swo
 /.*.swp
 
+## hide changes on experimental projects
+/jetty-nosql-kvs
+/jetty-nosql-memcached-gson
+/jetty-nosql-memcached-msgpack
+/jetty-nosql-memcached-protostuff
+/jetty-nosql-redis
+
 ## maven artifacts
 /target
