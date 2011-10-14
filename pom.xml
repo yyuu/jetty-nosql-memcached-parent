@@ -6,7 +6,7 @@
 	<name>jetty-nosql-memcached-parent</name>
 	<packaging>pom</packaging>
 	<properties>
-		<jetty.version>8.0.2.v20111006</jetty.version>
+		<jetty.version>8.0.3.v20111011</jetty.version>
 	</properties>
 	<modules>
 		<module>jetty-nosql-memcached</module>

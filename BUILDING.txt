@@ -5,7 +5,7 @@ You must first checkout clone of jetty.project.
 
   $ git clone git://github.com/eclipse/jetty.project.git
   $ cd jetty.project
-  $ git checkout jetty-8.0.2.v20111006
+  $ git checkout jetty-8.0.3.v20111011
   $ mvn -Dmaven.test.skip=true clean install
 
 Then you can build jetty-nosql-memcached.
