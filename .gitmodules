@@ -10,3 +10,6 @@
 [submodule "tests/test-memcached-sessions"]
 	path = tests/test-memcached-sessions
 	url = git://github.com/yyuu/test-memcached-sessions.git
+[submodule "jetty-nosql-kvs"]
+	path = jetty-nosql-kvs
+	url = git://github.com/yyuu/jetty-nosql-kvs.git

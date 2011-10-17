@@ -8,7 +8,6 @@
 /.*.swp
 
 ## hide changes on experimental projects
-/jetty-nosql-kvs
 /jetty-nosql-memcached-gson
 /jetty-nosql-memcached-msgpack
 /jetty-nosql-memcached-protostuff
