@@ -1,17 +1,11 @@
-Building jetty-nosql-memcached
+Building jetty-nosql-memcached-parent
 --------------
 
-You must first checkout clone of jetty.project.
+All relating components have been git-submoduled of this project.
+You can build with following procedures.
 
-  $ git clone git://github.com/eclipse/jetty.project.git
-  $ cd jetty.project
-  $ git checkout jetty-8.0.3.v20111011
-  $ mvn -Dmaven.test.skip=true clean install
-
-Then you can build jetty-nosql-memcached.
-
-  $ git clone git://github.com/yyuu/jetty-nosql-memcached-parent.git
-  $ cd jetty-nosql-memcached-parent
-  $ git submodule init
-  $ git submodule update
-  $ mvn clean package
+    $ git clone git://github.com/yyuu/jetty-nosql-memcached-parent.git
+    $ cd jetty-nosql-memcached-parent
+    $ git submodule init
+    $ git submodule update
+    $ mvn clean package
