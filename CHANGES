@@ -1,3 +1,10 @@
+2012-02-01 Yamashita Yuu <yamashita@geishatokyo.com>
+	* Release: 0.2.0
+	* Added KeyValueStore session managers to implement KVS client other than memcached.
+	* Load webapp context's class loader on object deserialization if available.
+    Thanks Daniel Peters.
+	* Added memcached mock object to run tests without actual memcached.
+
 2011-10-12 Yamashita Yuu <yamashita@geishatokyo.com>
 	* Release: 0.1.1
 	* Added XStream transcoder.
