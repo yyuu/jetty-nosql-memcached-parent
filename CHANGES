@@ -1,4 +1,4 @@
-2012-02-01 Yamashita Yuu <yamashita@geishatokyo.com>
+2012-02-02 Yamashita Yuu <yamashita@geishatokyo.com>
 	* Release: 0.2.0
 	* Added KeyValueStore session managers to implement KVS client other than memcached.
 	* Load webapp context's class loader on object deserialization if available.
