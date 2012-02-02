@@ -90,6 +90,6 @@ You may elect to redistribute this code under either of these licenses.
 
 ## Author
 
-Copyright (C) 2011 Geisha Tokyo Entertainment, Inc.
+Copyright (C) 2011-2012 Geisha Tokyo Entertainment, Inc.
 
 Yamashita, Yuu <yamashita@geishatokyo.com>
