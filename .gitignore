@@ -3,9 +3,13 @@
 /.project
 /.settings
 
+## intellij project files
+/.idea
+/*.iml
+
 ## vim files
-/.*.swo
-/.*.swp
+*.swo
+*.swp
 
 ## hide changes on experimental projects
 /jetty-nosql-memcached-gson

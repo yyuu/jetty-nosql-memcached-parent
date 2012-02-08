@@ -3,9 +3,13 @@
 /.project
 /.settings
 
+## intellij project files
+/.idea
+/*.iml
+
 ## vim files
-/.*.swo
-/.*.swp
+*.swo
+*.swp
 
 ## maven artifacts
 /target
