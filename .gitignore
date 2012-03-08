@@ -19,3 +19,8 @@
 
 ## maven artifacts
 /target
+
+## others
+*~
+*.orig
+/tmp
