@@ -1,5 +1,7 @@
 # jetty-nosql-memcached
 
+[![Build Status](https://secure.travis-ci.org/yyuu/jetty-nosql-memcached-parent.png?branch=master)](http://travis-ci.org/yyuu/jetty-nosql-memcached-parent)
+
 ## Overview
 
 SessionManager implementation for Jetty based on jetty-nosql.
