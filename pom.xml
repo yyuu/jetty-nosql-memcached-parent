@@ -4,6 +4,8 @@
 	<artifactId>jetty-nosql-memcached-parent</artifactId>
 	<version>0.2.2-SNAPSHOT</version>
 	<name>jetty-nosql-memcached-parent</name>
+	<description>Parent projct of jetty-nosql-memcached and relating projects.</description>
+	<url>https://github.com/yyuu/jetty-nosql-memcached-parent</url>
 	<packaging>pom</packaging>
 	<properties>
 		<jetty.version>8.1.1.v20120215</jetty.version>

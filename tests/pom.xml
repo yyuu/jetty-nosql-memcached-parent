@@ -8,6 +8,7 @@
 	<groupId>com.geishatokyo.jetty.tests</groupId>
 	<artifactId>jetty-nosql-memcached-tests</artifactId>
 	<name>jetty-nosql-memcached-tests</name>
+	<description>Test cases for jetty-nosql-memcached and relating projects.</description>
 	<packaging>pom</packaging>
 	<modules>
 		<module>test-memcached-sessions</module>
